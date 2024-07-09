@@ -1,2 +1,4 @@
 -r common.txt
+black==24.4.2
 pytest==8.2.2
+pytest-timeout==2.3.1
